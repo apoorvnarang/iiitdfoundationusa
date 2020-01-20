@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+### Purpose
+The purpose of IIIT-Delhi Foundation USA is to mobilize alumni and raise funds for the betterment of Indraprastha Institute of Information Technology (IIIT-Delhi), India. This includes giving grants for activities related to education, research and/or development to IIIT-Delhi and members of its community, including alumni, students, staff, and faculty, and facilitating professional development and social connections among members of the IIIT-Delhi community.
 
-You can use the [editor on GitHub](https://github.com/apoorvnarang/iiitdfoundationusa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Board of directors 
+- Megha Arora - [Email](mailto:megha893.arora@gmail.com)
+  - Class of 2016 
+- Apoorv Narang - [Email](mailto:apoorvnarang@gmail.com)
+  - Class of 2014
+- Raghav Sethi - [Email](mailto:raghavsethi.rs@gmail.com)
+  - Class of 2013
+  
+### Activities so far 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apoorvnarang/iiitdfoundationusa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Obtained EIN from IRS on 4/16/2019
+2. 501(c)(3) application in progress
