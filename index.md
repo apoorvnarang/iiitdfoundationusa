@@ -1,5 +1,5 @@
 ### Purpose
-The purpose of IIIT-Delhi Foundation USA is to mobilize alumni and raise funds for the betterment of Indraprastha Institute of Information Technology (IIIT-Delhi), India. This includes giving grants for activities related to education, research and/or development to IIIT-Delhi and members of its community, including alumni, students, staff, and faculty, and facilitating professional development and social connections among members of the IIIT-Delhi community.
+The purpose of IIIT-Delhi Foundation USA is to mobilize alumni and raise funds for the betterment of Indraprastha Institute of Information Technology ([IIIT-Delhi](https://iiitd.ac.in)), India. This includes giving grants for activities related to education, research and/or development to IIIT-Delhi and members of its community, including alumni, students, staff, and faculty, and facilitating professional development and social connections among members of the IIIT-Delhi community.
 
 ### Board of directors 
 - Megha Arora - [Email](mailto:megha893.arora@gmail.com)
